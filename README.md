@@ -1,2 +1,2 @@
 # bmi-calculator
-Simple BMI Calculator
+Simple BMI Calculator using VanillaJS.
